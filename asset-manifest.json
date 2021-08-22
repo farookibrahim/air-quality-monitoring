@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/air-quality-monitoring/static/css/main.b520d4fb.chunk.css",
+    "main.js": "/air-quality-monitoring/static/js/main.221d5c5b.chunk.js",
+    "main.js.map": "/air-quality-monitoring/static/js/main.221d5c5b.chunk.js.map",
+    "runtime-main.js": "/air-quality-monitoring/static/js/runtime-main.69676f4d.js",
+    "runtime-main.js.map": "/air-quality-monitoring/static/js/runtime-main.69676f4d.js.map",
+    "static/css/2.983f79de.chunk.css": "/air-quality-monitoring/static/css/2.983f79de.chunk.css",
+    "static/js/2.ded0464f.chunk.js": "/air-quality-monitoring/static/js/2.ded0464f.chunk.js",
+    "static/js/2.ded0464f.chunk.js.map": "/air-quality-monitoring/static/js/2.ded0464f.chunk.js.map",
+    "static/js/3.37af0519.chunk.js": "/air-quality-monitoring/static/js/3.37af0519.chunk.js",
+    "static/js/3.37af0519.chunk.js.map": "/air-quality-monitoring/static/js/3.37af0519.chunk.js.map",
+    "index.html": "/air-quality-monitoring/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/air-quality-monitoring/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.b520d4fb.chunk.css.map": "/air-quality-monitoring/static/css/main.b520d4fb.chunk.css.map",
+    "static/js/2.ded0464f.chunk.js.LICENSE.txt": "/air-quality-monitoring/static/js/2.ded0464f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69676f4d.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.ded0464f.chunk.js",
+    "static/css/main.b520d4fb.chunk.css",
+    "static/js/main.221d5c5b.chunk.js"
+  ]
+}

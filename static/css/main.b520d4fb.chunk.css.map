@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAIA,KACE,+BACF","file":"main.b520d4fb.chunk.css","sourcesContent":["/* :root {\n    --bs-body-font-family: 'Roboto', sans-serif !important;\n} */\n\nbody {\n  font-family: \"Roboto\", sans-serif;\n}\n"]}
