@@ -4,7 +4,7 @@ import { findIndex } from "lodash";
 import Table from "./components/Table";
 import Chart from "./components/Chart";
 
-const socket = new WebSocket("ws://city-ws.herokuapp.com");
+const socket = new WebSocket("wss://city-ws.herokuapp.com");
 
 socket.onopen = () => {
   console.log("WebSocket Client Connected");
