@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Live Air Quality Monitoring
+
+Created a single page app for displaying live air quality monitoring data. This app subscribed to the socket server (wss://city-ws.herokuapp.com) and displays the live updates received from this server. I displayed the live updates in a table and added a comparison chart of various cities with the respective magnified city information. There are added test cases and lintings for the project and runs it in every commit using husky. Additionally, I have deployed the project to GitHub Pages (https://farookibrahim.github.io/air-quality-monitoring/). It took me roughly 12 hours to finish the project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
